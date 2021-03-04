@@ -9,5 +9,5 @@ app.get('/', function (req, res) {
 })
 //Launch listening server on port 3000
 app.listen(port, function () {
-    console.log('app listening on port ${port}!')
+    console.log('this is project3 listening on port ${port}!')
 })
