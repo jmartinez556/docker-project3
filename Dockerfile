@@ -6,6 +6,6 @@ COPY . .
 RUN npm install
 
 
-EXPOSE 9996
+EXPOSE 64456
 
 ENTRYPOINT ["node", "index.js"]
